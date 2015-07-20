@@ -1,0 +1,31 @@
+{
+  "name": "tiny-emitter",
+  "version": "0.0.0",
+  "description": "A tiny event emitter library",
+  "main": "emitter.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "tap-spec": "^4.0.2",
+    "tape": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/emitter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/download13/tiny-emitter.git"
+  },
+  "keywords": [
+    "event",
+    "emitter"
+  ],
+  "author": "Erin Dachtler <download333@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/download13/tiny-emitter/issues"
+  },
+  "homepage": "https://github.com/download13/tiny-emitter#readme"
+}
