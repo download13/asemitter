@@ -1,13 +1,13 @@
-# tiny-emitter
+# asEmitter
 
 ## Install
 
-`npm install tiny-emitter`
+`npm install asemitter`
 
 ## Examples
 
 ```javascript
-var asEmitter = require('tiny-emitter');
+var asEmitter = require('asemitter');
 
 
 // Make a class instance an event emitter
